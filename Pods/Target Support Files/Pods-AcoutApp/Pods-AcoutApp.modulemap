@@ -1,0 +1,6 @@
+framework module Pods_AcoutApp {
+  umbrella header "Pods-AcoutApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
